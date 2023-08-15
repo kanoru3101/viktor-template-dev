@@ -1,0 +1,20 @@
+{
+  "name": "viktor-template-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanoru3101/viktor-template-dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanoru3101/viktor-template-dev/issues"
+  },
+  "homepage": "https://github.com/kanoru3101/viktor-template-dev#readme",
+  "dependencies": {
+    "axios": "^1.0.0"
+  }
+}
